@@ -1,5 +1,3 @@
-I am currently an Operations Coordinator at FedEx Ground where I am defined as the "middle woman" between drivers (those delivering the packages) and FedEx (those providing the packages and the ability to deliver those packages). FedEx operates utilizing contractors which are essentially businesses within FedEx, and my job is to make sure that everything is flowing smoothly from business to business. I utilize data analysis to make sure these businesses are operating effectively through the use of SAP Business Objects Reports, Excel Dashboards, and PowerBI Dashboards. I communicate these findings with both FedEx and the contractor in order to find the best way to optimize profit and increase customer satisfaction. I also have experience running meetings analyzing data and teaching multiple other co-workers how to take on and complete a task correctly. Overall, I do have a good understanding of data analysis and business effectiveness, but I want to dive deeper. I want to learn how to work with data more directly and learn how to operate through queries and dashboards more effectively.
-
 <h1 align="center">Albuquerque Air Quality</h1>
 
 ## Table of Contents 
