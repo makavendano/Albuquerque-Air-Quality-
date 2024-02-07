@@ -42,7 +42,7 @@ The dataset includes the following fields:
 
 
 ## Data Cleaning <a name="data-cleaning"></a>
-Code: [Data Cleaning](https://github.com/makavendano/Data-Analysis-Portfolio/blob/main/Albuquerque-Air-Quality/aqi-data-cleaning.sql) 
+Code: [Data Cleaning](https://github.com/makavendano/Albuquerque-Air-Quality-/blob/main/aqi-data-cleaning.sql) 
 
 All 5 Excel sheets for each year were imported into MySQL.
 
@@ -57,7 +57,7 @@ The data had missing Site Names with only Site IDs filled in. Research was condu
 6. Finally, update Site Names to proper case in order to make things look more clean.
 
 ## Data Exploration <a name="data-exploration"></a>
-Code: [Data Exploration](https://github.com/makavendano/Data-Analysis-Portfolio/blob/main/Albuquerque-Air-Quality/aqi-data-exploration.sql)
+Code: [Data Exploration](https://github.com/makavendano/Albuquerque-Air-Quality-/blob/main/aqi-data-exploration.sql)
 
 Initially, I wanted to focus on average air quality index (AQI) values in order to make a comparision and find trends amongst the data. The first query I ran was to gather all monthly averages over all 5 years. 
 
@@ -201,14 +201,14 @@ Figure 2 below is a photo of the site areas used. Sites described by the numbers
 - 8: Foothills 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73861849/215358939-3fb19574-aaaf-4adb-9203-520efcf9613c.png">
+  <img src="https://github.com/makavendano/Albuquerque-Air-Quality-/blob/main/location-sites.png">
 </p>
 <p align="center">
 Figure.2 - Sites used for recording air quality.
 </p>
 
 ## Data Visualization 
-Code: [Data Visualization](https://github.com/makavendano/Data-Analysis-Portfolio/blob/main/Albuquerque-Air-Quality/aqi-create-tables.sql)
+Code: [Data Visualization](https://github.com/makavendano/Albuquerque-Air-Quality-/blob/main/aqi-create-tables.sql)
 
 Tableau: [Data Visualization](https://public.tableau.com/app/profile/makayla.a.avendano/viz/AlbuquerqueAirQuality2018-2022/Dashboard12)
 
@@ -228,7 +228,7 @@ To better understand the air quality in Albuquerque, Tableau was used to visuali
 Looking at this dashboard, a few trends are noticeable. As mentioned earlier, summer months tend to have worse air quality which is evident in these visuals. Both daily air quality and average air quality visuals have a noticeable increase when selecting different years. Another evident trend is the amount of ozone throughout the years. Ozone was the most dominant pollutant and it's evident throughout the visual. 
 
 <p align="center">
-  <img src="https://github.com/makavendano/Data-Analysis-Portfolio/blob/main/Albuquerque-Air-Quality/AQI%20Dashboard.png">
+  <img src="https://github.com/makavendano/Albuquerque-Air-Quality-/blob/main/AQI%20Dashboard.png">
 </p>
 <p align="center">
 Figure.3 - Dashboard created for Albuquerque air quality data.
